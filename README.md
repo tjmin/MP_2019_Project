@@ -1,5 +1,6 @@
 # MP_2019_Project
 # 20133219 소프트웨어학부 민태준
+환경 : Windows
 
 1. MainActivity
   - 로그인 페이지
